@@ -7,7 +7,7 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
-//using TesteUnityWCF.Unity;
+using TesteUnityWCF.Unity;
 
 namespace TesteUnityWCF
 {
